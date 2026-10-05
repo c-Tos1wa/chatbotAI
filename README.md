@@ -39,6 +39,7 @@ poetry install
 
 - [OpenAI](https://developers.openai.com/api/reference/python)
 - [Streamlit](https://streamlit.io/)
+
 obs: Também foi utilizado o plugin poetry-plugin-dotenv
 
 ## Desenvolvedor
